@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedtrailDemo</string>
+
+    <string name="edit_text_hint">Search for image</string>
+    <string name="button_label">Search</string>
+
+</resources>
